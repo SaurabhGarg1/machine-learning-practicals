@@ -1,2 +1,2 @@
-# machine-learning-practicals
-Solution of problems using machine learning algorithms
+# machine-learning-practicles
+Solution of the problems using machine learning algorithms
