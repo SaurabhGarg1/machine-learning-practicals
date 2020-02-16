@@ -6,4 +6,5 @@ DataSet from sklearn
 
 ![Pair plot of some features](breast-cancer-pair-plot.png)
 
-confusion metric
+### confusion metric
+![confusion metric before parameter tuning](confusion-metric-before-parameter-tuning.png)
